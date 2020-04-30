@@ -1,3 +1,5 @@
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/dmakushin/santas-anonymous.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/dmakushin/santas-anonymous/context:python)
+
 # santas_anonymous
 Tool that helps assign roles for classic office game Santa's Anonymous
 
