@@ -3,10 +3,10 @@
 # secret-santa
 Tool that helps assign roles for classic office game Secret Santa
 
-You should add list of emails of all players into santas_list.json. Only one email in per line.
+You should add list of emails of all players into santas_list.json. Only one email per line.
 After that start the tool like
 
-python santa.py --u username --p password --s imap.gmail.com
+`python santa.py --u username --p password --s imap.gmail.com`
 
 Where username/password - your credentials for your email and imap.gmail.com 
 is example of mail server which might be used.
